@@ -1,0 +1,70 @@
+*{
+    background-color: rgb(170, 101, 52);
+    margin: 5px 0 5px 0;
+    padding: 0 10px 5px;
+    text-align: center;
+}
+#nav>li{
+    display: inline-block;
+    position: relative;
+}
+#nav >li>a{
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'MV Boli';
+    border: 2px solid black;
+}
+#nav li a {
+    text-decoration: none;
+    line-height:  10px; 
+    display: inline-block;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+}
+#heading{
+    font-family: 'Segoe Script';
+    text-align: center;
+    font-size: 70px;
+    color: rgb(62, 62, 219);
+}
+.lienket{
+    font-size: 20px;
+    text-align: left;
+}
+.khung{
+    display: inline-block;
+}
+#afterHead{
+    font-family: 'Segoe Script';
+    text-align: center;
+    color: rgb(62, 62, 219);    
+}
+.phan{
+    font-size: 20px;
+    text-align: left;
+}
+#ed{
+    font-size: 20px;
+    text-align: left;
+}
+#po{
+    font-size: 20px;
+    text-align: left;
+}
+.box{
+    color: rgb(46, 46, 148);
+    font-family: 'Segoe Script';
+}
+h2{
+    text-align: left;
+    font-family: 'Segoe Script';
+    color: rgb(90, 33, 33);
+}
+#nab > li{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 20px;
+}
