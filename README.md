@@ -1,0 +1,1 @@
+# ShareDocument free for everyone
